@@ -18,11 +18,11 @@ nav ul{
 }
 
 footer h1{
-    text-align: left;  font-size: 14px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: yellowgreen;
+    text-align: left;  font-size: 18px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: yellowgreen;
 }
 
 #seçao1{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center; font-size: 10px;  color:  white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center; font-size: 14px;  color:  white;
 }
 
 section h3{
@@ -35,5 +35,53 @@ section h1{
 }
  
 li{
-    color:rgb(70, 102, 206);
+    color:rgb(70, 102, 206); font-size: 40px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: rgb(116, 135, 197)); text-align:center ;
+}
+
+section2 h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center; font-size: 26  px;  color:  yellowgreen;
+}
+
+section2 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center; font-size: 14  px;  color:  rgb(255, 255, 255);
+}
+
+section3 h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center; font-size: 26  px;  color:  white;
+}
+
+#exemplo:hover{
+    color: blue;
+    font-size: 40;
+    cursor: pointer;
+    background-color: chocolate;
+}
+
+#exemplo{
+    color: yellowgreen;   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; text-align: center; font-size: 26  px; 
+ 
+}
+
+#exemplo:active{
+    color: red;
+    font-size: 200;
+}
+
+#éissoentao:active{
+    color:black;
+    font-size: 23px;
+}
+
+#éissoentao:hover{
+    color:orange;
+    font-size: 40;
+    cursor: pointer;
+}
+
+#header h1:hover{
+    font-family: fantasy;
+}
+
+#hollow night:active{
+    font-family: unset;
 }
